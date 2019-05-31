@@ -1,5 +1,5 @@
 # Tigerbook
-Group Project By: Daniel Schwarz, Jessie Clemons, Sam Naravo, Elliot Scott, and Jimmy Wright
+Authors: Daniel Schwarz, Jessie Clemons, Sam Naravo, Elliot Scott, and Jimmy Wright
 ## General
 Tigerbook is a mock-up of popular social media sites using websites such as reddit, craigslist, and various other internet forums for inspiration.
 ### Composition
