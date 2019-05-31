@@ -1,0 +1,33 @@
+.wrapper {
+	display: flex;
+	margin: 6px;
+}
+
+.LiveFeed {
+	display: flex;
+	flex: 4;
+	justify-content: center;
+	align-items: center;
+	margin: 5px;
+}
+
+.LiveFeedNav {
+	display: flex;
+	flex: 0 0 50px;
+}
+
+.Communities_search {
+	display: flex;
+	flex: 2;	
+	justify-content: center;
+	align-items: center;
+	margin: 5px;
+	background: #3A3A3A;
+}
+
+.refresh-button {
+	color: white;
+	background: black;
+	border: 0px;
+	margin: 10px;
+}
