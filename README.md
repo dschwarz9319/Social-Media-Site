@@ -16,7 +16,7 @@ Users have the option to:
   - Change profile picture<br/>
   - Respond to other's posts<br/>
 ```
-<br/><br/>
+<br/>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/51220736/185446916-96ea8577-efa7-4c29-82f8-d4a403a01095.png" />
