@@ -1,13 +1,23 @@
 # Tigerbook
 Authors: Daniel Schwarz, Jessie Clemons, Sam Naravo, Elliot Scott, and Jimmy Wright
-## General
+
+## Overview
 Tigerbook is a mock-up of popular social media sites using websites such as reddit, craigslist, and various other internet forums for inspiration.
-### Composition
-Tigerbook was made using React.js and using an AWS database. It was mostly programmed in Javascript, HTML and CSS.
-### Usage
-Users have the option to: <br/><br/>
-  -Create a new account<br/>
-  -Create posts<br/>
-  -Search for posts<br/>
-  -Change profile picture<br/>
-  -Respond to other's posts<br/>
+
+## Tech Stack
+Tigerbook was made using React.js as its UI, Node.js for it's backend, and it uses an AWS RDS database instance.
+
+## Functionality
+Users have the option to:
+```
+  - Create a new account<br/>
+  - Create posts<br/>
+  - Search for posts<br/>
+  - Change profile picture<br/>
+  - Respond to other's posts<br/>
+```
+<br/><br/>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/51220736/185446916-96ea8577-efa7-4c29-82f8-d4a403a01095.png" />
+</p>
